@@ -1,4 +1,4 @@
-package dev.fabricio.usuario.config;
+package dev.fabricio.usuario.config.security;
 
 import dev.fabricio.usuario.entity.Usuario;
 import dev.fabricio.usuario.repository.UsuarioRepository;
