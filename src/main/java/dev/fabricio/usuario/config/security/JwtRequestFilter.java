@@ -1,5 +1,6 @@
 package dev.fabricio.usuario.config;
 
+import dev.fabricio.usuario.config.security.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

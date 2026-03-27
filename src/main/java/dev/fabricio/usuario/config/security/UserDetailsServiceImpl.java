@@ -1,5 +1,7 @@
 package dev.fabricio.usuario.config;
 
+import dev.fabricio.usuario.entity.Usuario;
+import dev.fabricio.usuario.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
